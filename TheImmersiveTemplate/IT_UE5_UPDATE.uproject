@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SurfaceFootstepSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		}
+	]
+}
