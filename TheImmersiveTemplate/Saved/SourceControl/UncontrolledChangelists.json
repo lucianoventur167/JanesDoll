@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo.umap",
+				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/L_Maximo.umap",
+				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/BP_Object.uasset",
+				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset",
 				"D:/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset",
 				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Valen.umap",
 				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_MainTest.umap",
