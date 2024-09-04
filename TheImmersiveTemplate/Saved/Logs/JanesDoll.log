@@ -3481,3 +3481,1121 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.09.04-21.09.12:231][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
 [2024.09.04-21.09.12:236][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2024.09.04-21.09.12:388][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.09.04-21.11.03:531][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.11.03:534][ 17]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.11.03:535][ 17]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.11.03:557][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:558][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:558][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:561][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:561][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:561][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:563][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:563][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:563][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:567][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:567][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:567][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:569][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:569][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:569][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:573][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:573][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:573][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:586][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:586][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:586][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:589][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:589][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:589][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:592][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:592][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:592][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:594][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:594][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:594][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:732][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:732][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:732][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:735][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:735][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:735][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:737][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:737][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:738][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:761][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.09.04-21.11.03:765][ 17]LogPlayLevel: PlayLevel: Blueprint regeneration took 230 ms (1 blueprints)
+[2024.09.04-21.11.03:765][ 17]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:11:03 PM)
+[2024.09.04-21.11.03:765][ 17]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.03:771][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006176s)
+[2024.09.04-21.11.03:771][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006208s)
+[2024.09.04-21.11.03:786][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.09.04-21.11.03:787][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.11.03:787][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.11.03:787][ 17]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.11.03:787][ 17]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.09.04-21.11.03:787][ 17]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.11.03:787][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.11.03:787][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.11.03:788][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.11.03:788][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.11.03:788][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.11.03:790][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.11.03:808][ 17]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.11.03:808][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.11.03:808][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.11.03:808][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.11.03:810][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.09.04-21.11.03:810][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.09.04-21.11.03:811][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.09.04-21.11.03:811][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.09.04-21.11.03:811][ 17]LogInit: FAudioDevice initialized with ID 19.
+[2024.09.04-21.11.03:811][ 17]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_Maximo'.
+[2024.09.04-21.11.03:811][ 17]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.04-21.11.03:879][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.03:880][ 17]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.11.03:882][ 17]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.11.03
+[2024.09.04-21.11.03:883][ 17]LogWorld: Bringing up level for play took: 0.002419
+[2024.09.04-21.11.03:884][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.09.04-21.11.03:886][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:886][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:886][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.03:891][ 17]PIE: Server logged in
+[2024.09.04-21.11.03:892][ 17]PIE: Play in editor total start time 0.357 seconds.
+[2024.09.04-21.11.04:031][ 17]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.11.04:915][ 63]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.04:975][ 66]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.11.04:975][ 66]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.11.05:195][ 77]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.05:433][ 89]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.05:877][111]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.11.05:877][111]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.05:877][111]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.05:955][115]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.06:274][131]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.06:714][153]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.06:915][163]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.07:154][175]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.07:474][191]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.11.07:475][191]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.07:475][191]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.07:794][207]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.11.07:994][217]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.11.08:193][227]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.11.09:014][268]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.09:474][291]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.09:714][303]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.09:915][313]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.10:354][335]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.10:554][345]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.10:754][355]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.10:913][363]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.11:075][371]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.11:274][381]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.11:553][395]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.11:893][412]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.12:233][429]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.12:515][443]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.13:034][469]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.13:313][483]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.13:554][495]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.13:753][505]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.14:266][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.14:266][529]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.14:266][529]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.11.14:275][529]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.11.14:275][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.14:400][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.11.14:404][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.14:430][529]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.04-21.11.14:430][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.04-21.11.14:431][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.04-21.11.14:437][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.09.04-21.11.14:584][530]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.09.04-21.11.30:029][298]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.11.30:033][298]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.11.30:034][298]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.11.30:057][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:057][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:057][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:060][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:060][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:060][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:062][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:062][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:062][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:065][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:065][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:065][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:068][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:068][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:068][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:071][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:071][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:071][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:084][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:084][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:084][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:087][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:087][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:087][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:090][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:090][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:090][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:092][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:092][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:092][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:224][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:224][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:224][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:228][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:228][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:228][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:231][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:231][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:231][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:255][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.09.04-21.11.30:258][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 224 ms (1 blueprints)
+[2024.09.04-21.11.30:258][298]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:11:30 PM)
+[2024.09.04-21.11.30:258][298]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.30:265][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006559s)
+[2024.09.04-21.11.30:265][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006593s)
+[2024.09.04-21.11.30:282][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.09.04-21.11.30:284][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.11.30:284][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.11.30:284][298]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.11.30:284][298]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.09.04-21.11.30:284][298]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.11.30:284][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.11.30:284][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.11.30:284][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.11.30:284][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.11.30:284][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.11.30:286][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.11.30:303][298]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.11.30:303][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.11.30:304][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.11.30:304][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.11.30:304][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.09.04-21.11.30:304][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.09.04-21.11.30:306][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.09.04-21.11.30:306][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.09.04-21.11.30:306][298]LogInit: FAudioDevice initialized with ID 20.
+[2024.09.04-21.11.30:306][298]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_Maximo'.
+[2024.09.04-21.11.30:306][298]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.04-21.11.30:375][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.30:375][298]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.11.30:379][298]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.11.30
+[2024.09.04-21.11.30:380][298]LogWorld: Bringing up level for play took: 0.003800
+[2024.09.04-21.11.30:381][298]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.09.04-21.11.30:383][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:383][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:383][298]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.30:389][298]PIE: Server logged in
+[2024.09.04-21.11.30:389][298]PIE: Play in editor total start time 0.355 seconds.
+[2024.09.04-21.11.30:530][298]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.11.35:274][526]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.11.35:274][526]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.11.35:593][542]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.35:599][542]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:618][543]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:637][544]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:657][545]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:678][546]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:697][547]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:718][548]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:738][549]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:758][550]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:778][551]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:799][552]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:817][553]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:840][554]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:858][555]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:878][556]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:898][557]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:917][558]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:938][559]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:957][560]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:980][561]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.35:998][562]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:017][563]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:037][564]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:057][565]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:078][566]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:098][567]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:118][568]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:139][569]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:158][570]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:177][571]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:197][572]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:218][573]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:238][574]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:257][575]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:278][576]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:297][577]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:318][578]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:338][579]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:358][580]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:378][581]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:398][582]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:418][583]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:438][584]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:457][585]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:477][586]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:498][587]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:517][588]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:538][589]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:557][590]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:578][591]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:599][592]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:618][593]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:638][594]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:658][595]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:677][596]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:698][597]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:718][598]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:738][599]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:758][600]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:777][601]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:799][602]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:818][603]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:837][604]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:858][605]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:877][606]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:899][607]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:917][608]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:938][609]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:958][610]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:977][611]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.36:998][612]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:017][613]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:037][614]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:059][615]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:077][616]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:097][617]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:117][618]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:137][619]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:158][620]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:177][621]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:197][622]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:217][623]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:237][624]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:258][625]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:278][626]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:298][627]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:317][628]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:337][629]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:358][630]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:378][631]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:397][632]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:417][633]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:437][634]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:458][635]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:477][636]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:499][637]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:519][638]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:538][639]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:557][640]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:577][641]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:596][642]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:618][643]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:638][644]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:658][645]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:677][646]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:698][647]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:717][648]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:738][649]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:758][650]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:777][651]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:797][652]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:817][653]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:838][654]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:857][655]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:877][656]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:897][657]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:917][658]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:938][659]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:957][660]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:977][661]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.37:997][662]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:017][663]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:038][664]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:058][665]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:081][666]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:100][667]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:119][668]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:137][669]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:156][670]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:178][671]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:198][672]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:218][673]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:237][674]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:257][675]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:277][676]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:297][677]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:318][678]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:338][679]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:356][680]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:377][681]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:397][682]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:417][683]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:437][684]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:458][685]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:479][686]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:498][687]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:518][688]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:538][689]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:558][690]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:578][691]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:597][692]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:617][693]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:637][694]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:657][695]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:677][696]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:698][697]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:718][698]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:737][699]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:757][700]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:777][701]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:800][702]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:818][703]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:838][704]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:858][705]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:879][706]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:899][707]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:917][708]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:937][709]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:957][710]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:978][711]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.38:997][712]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:017][713]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:038][714]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:059][715]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:077][716]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:097][717]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:118][718]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:137][719]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:158][720]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:177][721]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:198][722]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:217][723]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:238][724]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:257][725]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:278][726]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:298][727]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:318][728]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:337][729]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.11.39:375][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.39:375][730]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.39:376][730]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.11.39:394][730]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.11.39:394][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.39:522][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.11.39:528][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.39:544][730]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.04-21.11.39:544][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.04-21.11.39:546][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.04-21.11.39:551][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.09.04-21.11.39:867][731]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.09.04-21.11.40:870][779]LogSlate: Window 'Message Log' being destroyed
+[2024.09.04-21.11.40:893][779]LogSlate: Window 'Message Log' being destroyed
+[2024.09.04-21.11.43:610][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.11.43:613][916]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.11.43:614][916]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.11.43:637][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:637][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:637][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:641][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:641][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:641][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:643][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:643][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:643][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:646][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:646][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:646][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:648][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:648][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:648][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:651][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:651][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:651][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:664][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:664][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:664][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:668][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:668][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:668][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:671][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:671][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:671][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:673][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:673][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:673][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:807][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:807][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:807][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:810][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:810][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:810][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:813][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:813][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:813][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:838][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.09.04-21.11.43:840][916]LogPlayLevel: PlayLevel: Blueprint regeneration took 227 ms (1 blueprints)
+[2024.09.04-21.11.43:840][916]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:11:43 PM)
+[2024.09.04-21.11.43:840][916]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.43:847][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006951s)
+[2024.09.04-21.11.43:847][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006985s)
+[2024.09.04-21.11.43:863][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.09.04-21.11.43:863][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.11.43:864][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.11.43:865][916]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.11.43:865][916]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2024.09.04-21.11.43:865][916]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.11.43:865][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.11.43:865][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.11.43:865][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.11.43:865][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.11.43:865][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.11.43:866][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.11.43:884][916]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.11.43:884][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.11.43:884][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.11.43:884][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.11.43:885][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.09.04-21.11.43:885][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.09.04-21.11.43:887][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.09.04-21.11.43:887][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.09.04-21.11.43:887][916]LogInit: FAudioDevice initialized with ID 21.
+[2024.09.04-21.11.43:887][916]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_Maximo'.
+[2024.09.04-21.11.43:887][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.04-21.11.43:958][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.43:959][916]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.11.43:962][916]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.11.43
+[2024.09.04-21.11.43:962][916]LogWorld: Bringing up level for play took: 0.003130
+[2024.09.04-21.11.43:964][916]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.09.04-21.11.43:965][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:965][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:965][916]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.11.43:970][916]PIE: Server logged in
+[2024.09.04-21.11.43:971][916]PIE: Play in editor total start time 0.358 seconds.
+[2024.09.04-21.11.44:115][916]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.11.47:629][ 80]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.11.47:629][ 80]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.11.47:989][ 98]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.11.47:990][ 98]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.47:990][ 98]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.11.48:028][100]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.48:509][124]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.48:729][135]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.48:969][147]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.11.49:288][163]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.49:488][173]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.49:689][183]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.50:129][205]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.50:389][218]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.50:648][231]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.50:889][243]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.51:128][255]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.51:308][264]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.11.51:845][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.11.51:845][289]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.11.51:846][289]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.11.51:855][289]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.11.51:856][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.51:986][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.11.51:990][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.11.52:011][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.04-21.11.52:011][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.04-21.11.52:012][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.04-21.11.52:017][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.09.04-21.11.52:162][290]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.09.04-21.12.03:868][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.12.03:872][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.12.03:873][877]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.12.03:896][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:896][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:896][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:899][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:899][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:899][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:901][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:901][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:901][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:904][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:904][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:904][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:906][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:906][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:906][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:910][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:910][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:910][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:923][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:923][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:923][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:926][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:926][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:926][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:929][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:929][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:929][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:932][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:932][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.03:932][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:063][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:063][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:064][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:066][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:066][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:066][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:069][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:069][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:069][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:093][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.09.04-21.12.04:095][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (1 blueprints)
+[2024.09.04-21.12.04:095][877]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:12:04 PM)
+[2024.09.04-21.12.04:096][877]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.12.04:102][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006297s)
+[2024.09.04-21.12.04:102][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006330s)
+[2024.09.04-21.12.04:117][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.09.04-21.12.04:118][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.12.04:118][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.12.04:119][877]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.12.04:119][877]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.09.04-21.12.04:119][877]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.12.04:119][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.12.04:119][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.12.04:120][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.12.04:120][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.12.04:120][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.12.04:121][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.12.04:139][877]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.12.04:140][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.12.04:140][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.12.04:140][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.12.04:140][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.09.04-21.12.04:140][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.09.04-21.12.04:142][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.09.04-21.12.04:142][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.09.04-21.12.04:142][877]LogInit: FAudioDevice initialized with ID 22.
+[2024.09.04-21.12.04:142][877]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_Maximo'.
+[2024.09.04-21.12.04:142][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.04-21.12.04:201][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.12.04:202][877]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.12.04:205][877]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.12.04
+[2024.09.04-21.12.04:206][877]LogWorld: Bringing up level for play took: 0.003798
+[2024.09.04-21.12.04:209][877]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.09.04-21.12.04:212][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:213][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:213][877]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.04:218][877]PIE: Server logged in
+[2024.09.04-21.12.04:218][877]PIE: Play in editor total start time 0.346 seconds.
+[2024.09.04-21.12.04:360][877]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.12.05:334][928]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.12.05:334][928]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.12.05:673][945]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.12.05:673][945]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.05:673][945]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.05:832][953]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.12.05:838][953]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:856][954]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:876][955]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:896][956]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:916][957]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:937][958]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:957][959]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:977][960]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.05:996][961]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:017][962]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:036][963]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:056][964]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:076][965]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:098][966]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:117][967]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:138][968]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:156][969]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:176][970]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:199][971]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:218][972]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:236][973]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:256][974]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:276][975]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:298][976]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:317][977]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:336][978]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:356][979]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:375][980]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:396][981]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:417][982]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:436][983]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:456][984]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:476][985]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:498][986]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:516][987]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:536][988]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:558][989]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:577][990]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:598][991]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:617][992]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:637][993]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:656][994]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:676][995]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:697][996]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:716][997]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:735][998]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:756][999]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:776][  0]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:796][  1]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:816][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:836][  3]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:856][  4]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:876][  5]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:897][  6]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:917][  7]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:937][  8]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:957][  9]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:976][ 10]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.06:997][ 11]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:016][ 12]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:036][ 13]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:058][ 14]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:076][ 15]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:096][ 16]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:116][ 17]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:136][ 18]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:157][ 19]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:177][ 20]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:196][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:217][ 22]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:236][ 23]PIE: Error: Blueprint Runtime Error: "Attempted to access ImmersiveComponent via property Immerisve Component, but ImmersiveComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  IsValid Function:  Action Name Blueprint:  W_UI
+[2024.09.04-21.12.07:275][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.12.07:275][ 24]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.12.07:276][ 24]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.12.07:293][ 24]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.12.07:293][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.12.07:417][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.12.07:421][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.12.07:437][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.04-21.12.07:437][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.04-21.12.07:439][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.04-21.12.07:445][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.09.04-21.12.07:756][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.09.04-21.12.08:769][ 74]LogSlate: Window 'Message Log' being destroyed
+[2024.09.04-21.12.08:792][ 74]LogSlate: Window 'Message Log' being destroyed
+[2024.09.04-21.12.14:589][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.12.14:592][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.12.14:593][365]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.12.14:616][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:616][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:616][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:619][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:619][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:619][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:621][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:621][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:621][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:624][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:624][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:624][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:627][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:627][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:627][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:630][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:630][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:630][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:643][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:643][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:643][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:647][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:647][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:647][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:650][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:650][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:650][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:652][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:652][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:652][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:786][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:786][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:786][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:789][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:789][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:789][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:792][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:792][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:792][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:815][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.09.04-21.12.14:818][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2024.09.04-21.12.14:818][365]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:12:14 PM)
+[2024.09.04-21.12.14:818][365]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.12.14:824][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006205s)
+[2024.09.04-21.12.14:824][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006235s)
+[2024.09.04-21.12.14:845][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.09.04-21.12.14:846][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.12.14:846][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.12.14:846][365]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.12.14:847][365]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2024.09.04-21.12.14:847][365]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.12.14:847][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.12.14:847][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.12.14:847][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.12.14:847][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.12.14:847][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.12.14:849][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.12.14:866][365]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.12.14:867][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.12.14:867][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.12.14:867][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.12.14:867][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.09.04-21.12.14:867][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.09.04-21.12.14:868][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.09.04-21.12.14:868][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.09.04-21.12.14:868][365]LogInit: FAudioDevice initialized with ID 23.
+[2024.09.04-21.12.14:869][365]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_Maximo'.
+[2024.09.04-21.12.14:869][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.04-21.12.14:939][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.12.14:939][365]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.12.14:943][365]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.12.14
+[2024.09.04-21.12.14:944][365]LogWorld: Bringing up level for play took: 0.003510
+[2024.09.04-21.12.14:946][365]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.09.04-21.12.14:948][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:948][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:948][365]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.12.14:953][365]PIE: Server logged in
+[2024.09.04-21.12.14:953][365]PIE: Play in editor total start time 0.361 seconds.
+[2024.09.04-21.12.15:091][365]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.12.15:949][409]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.12.15:949][409]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.12.16:288][426]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.12.16:290][426]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.16:290][426]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.16:308][427]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.12.17:668][495]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.12.17:669][495]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.17:669][495]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.12.17:827][503]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.12.18:268][525]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.12.18:807][552]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.12.19:325][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.12.19:325][576]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.12.19:326][576]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.12.19:335][576]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.12.19:336][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.12.19:463][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.12.19:467][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.12.19:486][576]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.04-21.12.19:486][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.04-21.12.19:487][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.04-21.12.19:493][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.09.04-21.12.19:642][577]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.09.04-21.13.30:504][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.13.30:509][860]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.04-21.13.30:510][860]LogPlayLevel: [PlayLevel] Compiling BP_ImmersiveCharacter before play...
+[2024.09.04-21.13.30:532][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:532][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:532][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:536][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:536][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:536][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:538][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:538][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:538][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:542][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:542][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:542][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:544][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:544][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:544][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:547][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:547][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:547][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:563][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:563][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:563][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:566][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:566][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:566][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:569][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:569][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:569][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:571][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:571][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:571][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:714][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:714][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:714][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:717][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:717][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:717][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:719][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:719][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:720][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:742][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.09.04-21.13.30:744][860]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (1 blueprints)
+[2024.09.04-21.13.30:744][860]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:13:30 PM)
+[2024.09.04-21.13.30:746][860]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.13.30:753][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006643s)
+[2024.09.04-21.13.30:753][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006682s)
+[2024.09.04-21.13.30:770][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.09.04-21.13.30:771][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.13.30:771][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.13.30:771][860]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.13.30:772][860]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2024.09.04-21.13.30:772][860]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.13.30:772][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.13.30:772][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.13.30:772][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.13.30:772][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.13.30:772][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.13.30:774][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.13.30:792][860]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.13.30:792][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.13.30:792][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.13.30:792][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.13.30:793][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.09.04-21.13.30:793][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.09.04-21.13.30:794][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.09.04-21.13.30:794][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.09.04-21.13.30:794][860]LogInit: FAudioDevice initialized with ID 24.
+[2024.09.04-21.13.30:794][860]LogAudio: Display: Audio Device (ID: 24) registered with world 'L_Maximo'.
+[2024.09.04-21.13.30:794][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.09.04-21.13.30:853][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.13.30:853][860]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.13.30:857][860]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.13.30
+[2024.09.04-21.13.30:857][860]LogWorld: Bringing up level for play took: 0.002744
+[2024.09.04-21.13.30:859][860]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.09.04-21.13.30:860][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:860][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:860][860]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.30:864][860]PIE: Server logged in
+[2024.09.04-21.13.30:865][860]PIE: Play in editor total start time 0.356 seconds.
+[2024.09.04-21.13.31:014][860]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.13.31:949][908]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.13.31:949][908]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.13.32:328][927]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object
+[2024.09.04-21.13.33:009][961]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.13.33:009][961]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.33:009][961]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.33:369][979]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.13.33:369][979]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.33:370][979]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.33:408][981]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object3
+[2024.09.04-21.13.34:449][ 33]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.13.34:450][ 33]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.34:450][ 33]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.34:669][ 44]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] BP_Object2
+[2024.09.04-21.13.35:308][ 76]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.13.35:309][ 76]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.35:309][ 76]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.35:670][ 94]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.13.35:670][ 94]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.35:670][ 94]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.13.35:848][103]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.13.36:188][120]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.13.36:708][146]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.13.38:745][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.13.38:745][246]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.13.38:746][246]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.13.38:750][246]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.13.38:750][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.13.38:894][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.13.38:897][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.13.38:917][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.09.04-21.13.38:917][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.09.04-21.13.38:918][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.09.04-21.13.38:924][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.09.04-21.13.39:077][247]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.09.04-21.13.44:686][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.09.04-21.13.45:965][387]LogSlate: Window 'Save Content' being destroyed
+[2024.09.04-21.13.45:992][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.04-21.13.46:126][387]LogSavePackage: Moving output files for package: /Game/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter
+[2024.09.04-21.13.46:126][387]LogSavePackage: Moving 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Saved/BP_ImmersiveCharacter694039234C2680A9D5BC9096A7931746.tmp' to 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset'
+[2024.09.04-21.13.46:134][387]LogSavePackage: Moving output files for package: /Game/Levels/L_Maximo/Caja_de_Juguete/BP_TeddyBear
+[2024.09.04-21.13.46:135][387]LogSavePackage: Moving 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Saved/BP_TeddyBear9AE748C94CF7C6C172E488BADC00B515.tmp' to 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Caja_de_Juguete/BP_TeddyBear.uasset'
+[2024.09.04-21.13.46:136][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewPhysicalMaterial" FILE="D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/NewPhysicalMaterial.uasset" SILENT=true
+[2024.09.04-21.13.46:136][387]LogSavePackage: Moving output files for package: /Game/NewPhysicalMaterial
+[2024.09.04-21.13.46:136][387]LogSavePackage: Moving 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Saved/NewPhysicalMaterial931076BE4655FFC94D711B9DD5B5ECEF.tmp' to 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/NewPhysicalMaterial.uasset'
+[2024.09.04-21.13.46:146][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 377 ms)
+[2024.09.04-21.13.46:149][387]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.04-21.13.46:149][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.BP_ImmersiveCharacter
+[2024.09.04-21.13.46:149][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Levels/L_Maximo/Caja_de_Juguete/BP_TeddyBear.BP_TeddyBear
+[2024.09.04-21.13.46:149][387]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/NewPhysicalMaterial.NewPhysicalMaterial
+[2024.09.04-21.13.57:669][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:669][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:669][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:673][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:673][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:674][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:678][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:678][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.13.57:678][826]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:208][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:208][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:208][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:212][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:212][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:212][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:217][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:217][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.03:217][ 90]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:503][542]BlueprintLog: New page: Compile BP_ImmersiveCharacter
+[2024.09.04-21.14.12:527][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:527][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:527][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:532][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:532][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:532][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:535][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:535][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:535][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:539][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:539][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:539][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:541][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:541][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:541][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:546][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:546][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:546][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:583][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.09.04-21.14.12:588][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:588][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:588][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:591][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:591][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:591][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:593][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:594][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:594][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:596][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:596][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:596][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:745][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:745][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:745][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:749][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:749][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:749][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:753][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:753][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.12:753][542]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.16:903][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.04-21.14.16:907][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.04-21.14.16:907][744]PIE: New page: PIE session: L_Maximo (Sep 4, 2024, 3:14:16 PM)
+[2024.09.04-21.14.16:908][744]LogPlayLevel: Creating play world package: /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.14.16:915][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006425s)
+[2024.09.04-21.14.16:915][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Maximo/L_Maximo.L_Maximo to /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo (0.006461s)
+[2024.09.04-21.14.16:932][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.09.04-21.14.16:937][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-21.14.16:937][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-21.14.16:938][744]LogAIModule: Creating AISystem for world L_Maximo
+[2024.09.04-21.14.16:938][744]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2024.09.04-21.14.16:938][744]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.04-21.14.16:938][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.04-21.14.16:938][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.04-21.14.16:939][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.04-21.14.16:939][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.04-21.14.16:939][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.04-21.14.16:940][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.04-21.14.16:958][744]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2024.09.04-21.14.16:958][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.04-21.14.16:958][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.04-21.14.16:958][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.04-21.14.16:959][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.09.04-21.14.16:959][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.09.04-21.14.16:960][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.09.04-21.14.16:960][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.09.04-21.14.16:960][744]LogInit: FAudioDevice initialized with ID 25.
+[2024.09.04-21.14.16:960][744]LogAudio: Display: Audio Device (ID: 25) registered with world 'L_Maximo'.
+[2024.09.04-21.14.16:960][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.09.04-21.14.17:040][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.14.17:040][744]LogLoad: Game class is 'GM_ImmersiveGameMode_C'
+[2024.09.04-21.14.17:048][744]LogWorld: Bringing World /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo.L_Maximo up for play (max tick rate 0) at 2024.09.04-18.14.17
+[2024.09.04-21.14.17:048][744]LogWorld: Bringing up level for play took: 0.006165
+[2024.09.04-21.14.17:050][744]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.09.04-21.14.17:051][744]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.17:051][744]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.17:051][744]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.09.04-21.14.17:060][744]PIE: Server logged in
+[2024.09.04-21.14.17:065][744]PIE: Play in editor total start time 0.157 seconds.
+[2024.09.04-21.14.17:076][744]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.09.04-21.14.21:866][947]LogBlueprintUserMessages: [ImmersiveComponent] 1
+[2024.09.04-21.14.21:866][947]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Walk
+[2024.09.04-21.14.22:227][965]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.14.22:227][965]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.14.22:227][965]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.14.22:587][983]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.22:589][983]LogBlueprintUserMessages: [ImmersiveComponent] 2
+[2024.09.04-21.14.22:589][983]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.14.22:589][983]LogBlueprintUserMessages: [ImmersiveComponent] SC_Concrete_Run
+[2024.09.04-21.14.23:166][ 12]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.23:647][ 36]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.24:246][ 66]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.24:566][ 82]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.25:065][107]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] Landscape
+[2024.09.04-21.14.26:105][159]LogBlueprintUserMessages: [BP_ImmersiveCharacter_C_0] bear2_Sphere_013
+[2024.09.04-21.14.27:305][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.04-21.14.27:305][217]LogWorld: BeginTearingDown for /Game/Levels/L_Maximo/UEDPIE_0_L_Maximo
+[2024.09.04-21.14.27:306][217]LogSlate: Window 'JanesDoll Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.09.04-21.14.27:309][217]LogWorld: UWorld::CleanupWorld for L_Maximo, bSessionEnded=true, bCleanupResources=true
+[2024.09.04-21.14.27:309][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.14.27:450][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.04-21.14.27:453][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.04-21.14.27:470][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.04-21.14.27:471][217]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.09.04-21.14.27:471][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.09.04-21.14.27:473][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.09.04-21.14.27:478][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.09.04-21.14.27:647][218]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.09.04-21.14.31:120][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.09.04-21.14.32:323][393]LogSlate: Window 'Save Content' being destroyed
+[2024.09.04-21.14.32:351][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.04-21.14.32:473][393]LogSavePackage: Moving output files for package: /Game/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter
+[2024.09.04-21.14.32:473][393]LogSavePackage: Moving 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Saved/BP_ImmersiveCharacterD0CA58D4492B8F22163513B93619A3BA.tmp' to 'D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset'
+[2024.09.04-21.14.32:484][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 510 ms)
+[2024.09.04-21.14.32:486][393]AssetCheck: New page: Asset Save: BP_ImmersiveCharacter
+[2024.09.04-21.14.32:486][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.BP_ImmersiveCharacter
