@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset",
+				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Valen.umap",
+				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_MainTest.umap",
+				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Lucho.umap",
+				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Facu.umap",
+				"D:/JanesDoll/TheImmersiveTemplate/Content/Assets/Jane_1_2.uasset",
 				"H:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Lautaro.umap",
 				"H:/JanesDoll/TheImmersiveTemplate/Content/Assets/Labyrinth/M_BushWall.uasset",
 				"H:/JanesDoll/TheImmersiveTemplate/Content/Assets/Atic/Modulars/ModularWalls_pPlane1.uasset",
@@ -38,12 +44,7 @@
 				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Caja_de_Juguete/BP_Door.uasset",
 				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Plataformas_Autodestructivas/BP_Platform.uasset",
 				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Caja_de_Juguete/BP_Bear.uasset",
-				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Caja_de_Juguete/bear2_Sphere_013.uasset",
-				"D:/JanesDoll/TheImmersiveTemplate/Content/ImmersiveTemplate/Demo/Blueprints/BP_ImmersiveCharacter.uasset",
-				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Valen.umap",
-				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_MainTest.umap",
-				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Lucho.umap",
-				"D:/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Facu.umap"
+				"D:/Usuario/Documents/arrayutils/JanesDoll/TheImmersiveTemplate/Content/Levels/L_Maximo/Caja_de_Juguete/bear2_Sphere_013.uasset"
 			]
 		}
 	]
